@@ -4,9 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.oca_java_se8_exam_1z0_808</groupId>
+    <groupId>com.github.aleksvladimir</groupId>
     <artifactId>oca_java_se8_exam_1z0_808</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>chapter4</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>13</maven.compiler.source>
