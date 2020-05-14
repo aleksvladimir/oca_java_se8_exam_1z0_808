@@ -1,4 +1,4 @@
-package com.github.aleksvladimir.lambdas;
+package com.github.aleksvladimir.lambdas.first;
 
 /**
  * Lambda Example.
