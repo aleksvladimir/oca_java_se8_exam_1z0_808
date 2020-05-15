@@ -21,11 +21,17 @@ public class TraditionalSearch {
         That method expects a CheckTrait as the second parameter.
         Since we are passing a lambda instead, Java tries to map our lambda to that interface:
             boolean test(Animal a);
+        Since that interface’s method takes an Animal, that means the lambda parameter has to
+        be an Animal. And since that interface’s method returns a boolean, we know the lambda
+        returns a boolean.
         Java полагается на контекст когда выясняет что означает выражение лямбда.
         Мы пропускаем эту лямбду как второй параметр метода print().
         Этот метод ожидает CheckTrait как второй параметр.
         Поскольку мы пропускаем лямбду вместо него, Java пытается сопоставить нашу лямбду с этим интерфейсом:
             boolean test(Animal a);
+        Поскольку этот метод интерфейса принимает Animal, это означает, что параметр лямбды
+        должен быть Animal. И поскольку этот метод интерфейса возвращает boolean, мы знаем
+        что лямбда возвращает boolean.
         * */
 
         // success compile
