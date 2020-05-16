@@ -24,4 +24,4 @@ and E are incorrect because the variable e is already in use from the lambda and
 missing the semicolon.
  */
 
-package com.github.aleksvladimir.reviewquestions;
+package com.github.aleksvladimir.reviewquestions.answers;
