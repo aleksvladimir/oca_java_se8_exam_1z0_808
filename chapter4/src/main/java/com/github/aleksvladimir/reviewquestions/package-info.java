@@ -14,6 +14,11 @@ declares a test() method.
 if one is a StringBuilder. It is tricky to use types in a lambda when they are implicitly
 specified. Remember to check the interface for the real type.
 
+28. A, D, F. removeIf() expects a Predicate, which takes a parameter list of one parameter using the specified type. Options B and C are incorrect because they do not use the
+return keyword. It is required inside braces for lambda bodies. Option E is incorrect
+because it is missing the parentheses around the parameter list. This is only optional
+for a single parameter with an inferred type
+
  */
 
 package com.github.aleksvladimir.reviewquestions;
