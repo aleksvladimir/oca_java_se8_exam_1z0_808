@@ -2,6 +2,12 @@ package com.github.aleksvladimir.reviewquestions;
 
 /*
 26. What is the result of the following class?
+A. match
+B. not match
+C. Compiler error on line 8.
+D. Compiler error on line 10.
+E. Compiler error on line 11.
+F. A runtime exception is thrown.
  */
 
 import java.util.function.*;

@@ -2,6 +2,12 @@ package com.github.aleksvladimir.reviewquestions;
 
 /*
 27. What is the result of the following code?
+A. ok
+B. too high
+C. Compiler error on line 7.
+D. Compiler error on line 10.
+E. Compiler error on a different line.
+F. A runtime exception is thrown.
  */
 
 interface Climb {
