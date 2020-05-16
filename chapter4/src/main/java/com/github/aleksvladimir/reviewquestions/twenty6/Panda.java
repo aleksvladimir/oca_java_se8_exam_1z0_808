@@ -1,4 +1,4 @@
-package com.github.aleksvladimir.reviewquestions;
+package com.github.aleksvladimir.reviewquestions.twenty6;
 
 /*
 26. What is the result of the following class?

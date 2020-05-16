@@ -1,4 +1,4 @@
-package com.github.aleksvladimir.reviewquestions;
+package com.github.aleksvladimir.reviewquestions.twenty8;
 
 /*
 28. Which of the following lambda expressions can fill in the blank? (Choose all that apply)
