@@ -1,4 +1,4 @@
-package com.github.aleksvladimir.lambdas.prdicates;
+package com.github.aleksvladimir.methodsandencapsulation.writingsimplelambdas.prdicates;
 
 /*
 Лямбды работают с интерфейсами, которые имеют только один метод.
@@ -21,7 +21,7 @@ These are called functional interfaces—interfaces that can be used with functi
  писать дополнительный код.
 */
 
-import com.github.aleksvladimir.lambdas.first.Animal;
+import com.github.aleksvladimir.methodsandencapsulation.writingsimplelambdas.first.Animal;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.function.*;

@@ -1,4 +1,4 @@
-package com.github.aleksvladimir.lambdas.prdicates;
+package com.github.aleksvladimir.methodsandencapsulation.writingsimplelambdas.prdicates;
 
 /*
 В Java 8 даже интегрированы интерфейсы предикатав некоторые существующие классы. Вам нужно

@@ -1,4 +1,4 @@
-package com.github.aleksvladimir.lambdas.first;
+package com.github.aleksvladimir.methodsandencapsulation.writingsimplelambdas.first;
 
 import java.util.List;
 import java.util.ArrayList;

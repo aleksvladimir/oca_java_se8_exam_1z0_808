@@ -17,4 +17,4 @@
  интерфейсов, как это было сделано с CheckTrait.
  */
 
-package com.github.aleksvladimir.lambdas.prdicates;
+package com.github.aleksvladimir.methodsandencapsulation.writingsimplelambdas.prdicates;

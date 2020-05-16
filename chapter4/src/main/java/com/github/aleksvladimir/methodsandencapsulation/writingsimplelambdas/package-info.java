@@ -22,4 +22,4 @@
  * The removeIf() method on ArrayList takes a Predicate.
  */
 
-package com.github.aleksvladimir.lambdas;
+package com.github.aleksvladimir.methodsandencapsulation.writingsimplelambdas;
