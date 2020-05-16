@@ -19,6 +19,9 @@ return keyword. It is required inside braces for lambda bodies. Option E is inco
 because it is missing the parentheses around the parameter list. This is only optional
 for a single parameter with an inferred type
 
+29. A, F. Option B is incorrect because it does not use the return keyword. Options C, D,
+and E are incorrect because the variable e is already in use from the lambda and cannot be redefined. Additionally, option C is missing the return keyword and option E is
+missing the semicolon.
  */
 
 package com.github.aleksvladimir.reviewquestions;
